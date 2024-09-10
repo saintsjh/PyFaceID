@@ -1,0 +1,2 @@
+Face Recognition System with OpenCV and Serial Communication
+This project implements a face recognition system using OpenCV and a Local Binary Patterns Histogram (LBPH) face recognizer. The system detects faces from a video stream, identifies them using a pre-trained model, and displays the corresponding name or a "NEW PERSON" label. The system also collects datasets for training. Additionally, serial communication is available for potential integration with external devices in the future.
